@@ -1,5 +1,5 @@
 <!-- 实验室banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=云汇安全实验室&fontColor=003366)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=云汇安全实验室&fontColor=003366)]
 <!-- 用户评级 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ir-st)
 <!-- 访客统计 -->
