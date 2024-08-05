@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+//实验室banner
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ir-st)
+<!-- 用户评级-->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ir-st)
+
